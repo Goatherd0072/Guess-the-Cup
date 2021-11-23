@@ -1,0 +1,20 @@
+# 文件夹
+.vscode/
+[Ll]ogs/
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+QCAR/
+Assets/[Pp]lugins/
+
+# 项目文件
+/*.csproj
+/*.unityproj
+/*.sln
+/*.suo
+/*.user
+/*.userprefs
+/*.pidb
+/*.booproj
+*.meta
+.vsconfig
